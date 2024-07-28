@@ -1,8 +1,12 @@
 {
     "users": {
-        "ZekiKURD": "20290820",
-        "testuser": "20240915",
-        "exp": "20240727"
-        
+        "ZekiKURD": {
+            "expireDate": "20290820",
+            "password": "12345"
+        },
+        "testuser": {
+            "expireDate": "20240915",
+            "password": "67890"
+        }
     }
 }
