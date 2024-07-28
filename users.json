@@ -5,7 +5,7 @@
             "password": "12345"
         },
         "testuser": {
-            "expireDate": "20240915",
+            "expireDate": "20240715",
             "password": "67890"
         }
     }
