@@ -7,6 +7,10 @@
         "testuser": {
             "expireDate": "20240715",
             "password": "67890"
+        },
+        "hellGurdVPN": {
+            "expireDate": "20241001",
+            "password": "hellGurdVPN"
         }
     }
 }
